@@ -27,3 +27,8 @@ nav:
   - learning neuroimaging: "learning_neuroimaging.md"
   - Neuroimaging resources: "neuroimaging_resources.md"
   - Reproducible research: "reproducible_neuroimaging_research.md"
+
+# list of extension
+markdown_extensions:
+  - admonition
+  - pymdownx.details

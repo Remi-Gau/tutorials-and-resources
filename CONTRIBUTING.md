@@ -72,6 +72,7 @@ This project uses [MkDocs](https://www.mkdocs.org/) tool with [Material theme](h
 - To test locally, you will need to install Material for MkDocs:
 ```
 pip install mkdocs-material
+pip install pymdown-extensions
 ```
 
 - Once done, you need to run MkDocs. Simply type the following commands:
