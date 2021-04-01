@@ -13,7 +13,7 @@
 
 This website is full of links and resources for all your neuro-needs!
 
-https://learn-neuroimaging.github.io/tutorials-and-resources
+https://learn-neuroimaging.github.io/hitchhackers_guide_brain/
 
 We currently use mkdocs for our website. The "docs" directory contains ".md" pages containing domain-specific links to resources.
 
